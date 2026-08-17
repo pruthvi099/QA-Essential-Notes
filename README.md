@@ -69,4 +69,4 @@ This is currently a personal, actively maintained knowledge base — new notes a
 
 ## License
 
-MIT — free to use, reference, and share.
+MIT — free to use, reference, and share.♥️💻🔁
