@@ -48,4 +48,4 @@ PRs are reviewed for technical accuracy, adherence to the note template, and fit
 
 ## Code of Conduct
 
-Be respectful and constructive. This is a resource meant to help people learn — keep contributions and discussion focused on that goal.
+Be respectful and constructive. This is a resource meant to help people learn — keep contributions and discussion focused on that goal.♥️💻🔁
