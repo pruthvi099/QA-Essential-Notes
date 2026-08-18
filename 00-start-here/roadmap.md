@@ -81,4 +81,4 @@ How this roadmap is meant to be used in practice — a reader new to QA followin
 
 ## References
 
-- N/A — this is an internal repo index, not based on external documentation.
+- N/A — this is an internal repo index, not based on external documentation.💻🔁
